@@ -9,3 +9,5 @@ Gemini_w_RL_and_FT (2).ipynb is the mopst recent. It contains dataset implementa
 PromptDataset.csv is the dataset we will be using for fine-tuning the LLM. Download the csv and save to main Google Drive.
 
 Text_Comparison.ipynb contains the quantitative metrics (cosine similarity, Jaccard similarity, Levenshtein distance, BLEU score) for determining text similarity.
+
+csvjson.json is the json file version of PromptDataset.csv
