@@ -3,7 +3,6 @@
 ## Dataset
 ```PromptDataset.csv``` is the dataset we will be using for fine-tuning the LLM. Download the CSV and save it to the main Google Drive.
 ```PromptDataset_yourgpt.jsonl``` is the JSONl file version of PromptDataset.csv.
-
 ```csvjson.json``` is the JSON file version of PromptDataset.csv.
 
 ## GPT-3.5 Turbo Files
