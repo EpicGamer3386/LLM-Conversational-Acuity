@@ -2,7 +2,7 @@
 
 PromptDataset.csv is the dataset we will be using for fine-tuning the LLM. Download the CSV and save it to the main Google Drive.
 
-GPT3_5FineTuned_with_parameters.ipynb contains all the fine-tuning with adjusted parameters.
+```GPT3_5FineTuned_with_parameters.ipynb``` contains all the fine-tuning with adjusted parameters.
 
 
 Gemini.ipynb is the Gemini API key applied to a Colab notebook.
