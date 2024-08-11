@@ -15,9 +15,8 @@
 ### GPT-3.5 Turbo Files
 ```GPT3_5FineTuned_with_parameters.ipynb``` contains all the fine-tuning with adjusted parameters.
 
-### GPT-4o mini Files
-
-### GPT-4o Files
+### GPT-4o mini Files and GPT-4o Files
+You will have to replace the ```gpt-3.5-turbo	``` in the folder of gpt3.5 turbo with ```gpt-4o-mini``` for **GPT-4o mini** and ```gpt-4o-2024-08-06``` for **GPT-4o**. This should replace the 3.5 Turbo model with the model that you need.
 
 ### Llama 2
 ```llama_2.ipynb``` contains all the fine-tuning with adjusted parameters. 
