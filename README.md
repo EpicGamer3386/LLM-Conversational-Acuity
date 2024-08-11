@@ -7,18 +7,22 @@
 
 ```csvjson.json``` is the JSON file version of PromptDataset.csv.
 
-## GPT-3.5 Turbo Files
+## Models
+### GPT-3.5 Turbo Files
 ```GPT3_5FineTuned_with_parameters.ipynb``` contains all the fine-tuning with adjusted parameters.
 
-## GPT-4o mini Files
+### GPT-4o mini Files
 
-## GPT-4o Files
+### GPT-4o Files
+
+### Llama 2
+```llama_2.ipynb``` contains all the fine-tuning with adjusted parameters. 
 
 ## Model Comparison
 ```Text_Comparison.ipynb``` contains the quantitative metrics (cosine similarity, Jaccard similarity, Levenshtein distance) for determining text similarity.
 
-
-## Gemini model -- We will not be using these files for our experiment
+## Unused!
+### Gemini model -- We will not be using these files for our experiment
 ```Gemini.ipynb``` is the Gemini API key applied to a Colab notebook.
 
 ```Gemini_w_RL_and_FT (1).ipynb``` is the edited notebook with implementations for RLHF and fine-tuning. We will have to adjust to keep up with our dataset.
