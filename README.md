@@ -12,6 +12,6 @@ PromptDataset.csv is the dataset we will be using for fine-tuning the LLM. Downl
 
 PromptDataset_yourgpt.jsonl is the jsonl file version of PromptDataset.csv
 
-Text_Comparison.ipynb contains the quantitative metrics (cosine similarity, Jaccard similarity, Levenshtein distance, BLEU score) for determining text similarity.
+Text_Comparison.ipynb contains the quantitative metrics (cosine similarity, Jaccard similarity, Levenshtein distance) for determining text similarity.
 
 csvjson.json is the json file version of PromptDataset.csv
