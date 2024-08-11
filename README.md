@@ -1,6 +1,7 @@
 # LLM-Conversational-Acuity
 
 ## Dataset
+-- This can be found in the ```/DatasetFiles```
 ```PromptDataset.csv``` is the dataset we will be using for fine-tuning the LLM. Download the CSV and save it to the main Google Drive.
 
 ```PromptDataset_yourgpt.jsonl``` is the JSONl file version of PromptDataset.csv.
@@ -8,6 +9,7 @@
 ```csvjson.json``` is the JSON file version of PromptDataset.csv.
 
 ## Models
+-- Each model will have a folder with the name of the model
 ### GPT-3.5 Turbo Files
 ```GPT3_5FineTuned_with_parameters.ipynb``` contains all the fine-tuning with adjusted parameters.
 
@@ -21,7 +23,8 @@
 ## Model Comparison
 ```Text_Comparison.ipynb``` contains the quantitative metrics (cosine similarity, Jaccard similarity, Levenshtein distance) for determining text similarity.
 
-## Unused!
+## Unused
+-- We will not be using Gemini model for our experiment
 ### Gemini model -- We will not be using these files for our experiment
 ```Gemini.ipynb``` is the Gemini API key applied to a Colab notebook.
 
