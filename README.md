@@ -1,6 +1,9 @@
 # LLM-Conversational-Acuity
-You should be able to find and add results through this {link}[https://docs.google.com/spreadsheets/d/1iiRd8d2JwryC6t5yJ4FuXY50Q8X_rvqHH0dDc2m2ZuQ/edit?usp=sharing]
+
+You should be able to find and add results through this [link](https://docs.google.com/spreadsheets/d/1iiRd8d2JwryC6t5yJ4FuXY50Q8X_rvqHH0dDc2m2ZuQ/edit?usp=sharing).
+
 ## Dataset
+
  <i> This can be found in the ```/DatasetFiles``` <i>
  
 ```PromptDataset.csv``` is the dataset we will be using for fine-tuning the LLM. Download the CSV and save it to the main Google Drive.
